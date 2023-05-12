@@ -6,7 +6,7 @@ At my current workplace, I developed an PowerBI Dashboard which analyzed all the
 ## Prerequisites:
 - Volume reports shows how much volume in trays are recieved/stored into machine and retrieved/outfeed from machines per day/month
 - Downtime reports shows downtime of machines in different formats
-- The reports were targetted to audience with highly technical backgound (A different version was presented to stakeholder in PPT slides which can't be shared as confidentiality requirement
+- The reports were targetted to audience with highly technical backgound (A different version was presented to stakeholders in PPT slides which can't be shared as confidentiality requirement)
 
 ## Features:
 **For Operations**
@@ -22,10 +22,10 @@ At my current workplace, I developed an PowerBI Dashboard which analyzed all the
 
 
 ## Tools used:
-- Type of Data: Structed (Excel, SQL) & Unstructured (.log files from machines)
+- Type of Data: Structured (Excel, SQL) & Unstructured (.log files from machines)
 - Data Cleaning: Python, PowerQuery in PowerBI
 - Visualizations: PowerBI
 
 
 ## Note:
-- This report should not be used to judge my presentation abilities as this was the inital stage and the final presentation is highly cinfidential and can not be shared
+- This report should not be used to judge my presentation abilities as this was the inital stage and the final presentation is highly confidential and can not be shared
