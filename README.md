@@ -1,5 +1,7 @@
 # Progress Report - Operations and Maintenance 
-At my current workplace, I developed an PowerBI Dashboard which showed all the analyzed data since the start of commissioning of our Overhead Gantry system. 
+-	An overhead gantry system was installed in a distribution centre of a bakery to store products from bakery and retrieve it as per the sales orders
+-	As per the request of stakeholders, I analysed machine's store/retrieve data to find out the rate of infeeding the products into the Gantry storage vs the rate of retrieving sales orders from it
+-	I also analysed machine's performance to find out most common problems, uncovered some trends and analysed them even further to improve the performance
 
 ## Prerequisites:
 - Volume Summary report shows how much volume in trays are stored into the machine (Infeeding) and retrieved/outfeed from machines (Outfeeding)
